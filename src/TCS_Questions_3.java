@@ -8,8 +8,24 @@
 //For example:If n=10, the 10th term in the series is to be derived from the 9th term in the series. The 9th term is 8 so
 // the 10th term is (8/2)=4. Only the value 4 should be printed to STDOUT.
 //You can assume that the n will not exceed 20,000.
-public class TCS_Coding_Questions_3 {
+
+import java.util.Scanner;
+public class TCS_Questions_3 {
     public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        System.out.print("Enter The Number : ");
+        int N=sc.nextInt();
+        long term;
+
+        if (N % 2 ==1){
+            term =2*((N-1) /2);
+        }else {
+
+            int prev=2*((N-2) /2);
+            term=prev/2;
+        }
+        System.out.println(term);
+
 
     }
 }
