@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5be8423-7850-4734-a30d-aa4822eff5f8" name="Changes" comment="Tcs Day 3 completed" />
+    <list default="true" id="a5be8423-7850-4734-a30d-aa4822eff5f8" name="Changes" comment="Tcs Day 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TCS_Questions_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TCS_Questions_4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,13 +51,14 @@
     "Application.TCS_Question_1.executor": "Run",
     "Application.TCS_Question_2.executor": "Run",
     "Application.TCS_Questions_3.executor": "Run",
+    "Application.TCS_Questions_4.executor": "Run",
     "Application.count_frequency_Of_number_of_element_in_array.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TCS_Questions_3">
+  <component name="RunManager" selected="Application.TCS_Questions_4">
     <configuration name="TCS_Question_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TCS_Question_1" />
       <module name="Tcs Coding Question" />
@@ -76,6 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TCS_Questions_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TCS_Questions_4" />
+      <module name="Tcs Coding Question" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="count_frequency_Of_number_of_element_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="count_frequency_Of_number_of_element_in_array" />
       <module name="Tcs Coding Question" />
@@ -85,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TCS_Questions_4" />
         <item itemvalue="Application.TCS_Questions_3" />
         <item itemvalue="Application.TCS_Question_2" />
         <item itemvalue="Application.TCS_Question_1" />
@@ -141,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759811472538</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Tcs Day 4">
+      <option name="closed" value="true" />
+      <created>1759935120198</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759935120198</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -150,6 +170,7 @@
     <MESSAGE value="Given a maximum of 100 digit numbers as input, find the difference between the" />
     <MESSAGE value="Tcs Day 3" />
     <MESSAGE value="Tcs Day 3 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tcs Day 3 completed" />
+    <MESSAGE value="Tcs Day 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tcs Day 4" />
   </component>
 </project>
