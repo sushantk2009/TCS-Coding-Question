@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5be8423-7850-4734-a30d-aa4822eff5f8" name="Changes" comment="Tcs Day 4">
-      <change afterPath="$PROJECT_DIR$/src/TCS_Coding_Question_5.java" afterDir="false" />
+    <list default="true" id="a5be8423-7850-4734-a30d-aa4822eff5f8" name="Changes" comment="Tcs Day 5">
+      <change afterPath="$PROJECT_DIR$/src/Good_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method_in_Java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TCS_Coding_Question_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TCS_Coding_Question_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,21 +48,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.TCS_Question_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TCS_Question_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TCS_Questions_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TCS_Questions_4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.count_frequency_Of_number_of_element_in_array.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Good_Number.executor": "Run",
+    "Application.Method_in_Java.executor": "Run",
+    "Application.TCS_Question_1.executor": "Run",
+    "Application.TCS_Question_2.executor": "Run",
+    "Application.TCS_Questions_3.executor": "Run",
+    "Application.TCS_Questions_4.executor": "Run",
+    "Application.count_frequency_Of_number_of_element_in_array.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.TCS_Questions_4">
-    <configuration name="TCS_Question_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TCS_Question_1" />
+}]]></component>
+  <component name="RunManager" selected="Application.Method_in_Java">
+    <configuration name="Good_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Good_Number" />
+      <module name="Tcs Coding Question" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Method_in_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Method_in_Java" />
       <module name="Tcs Coding Question" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,20 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="count_frequency_Of_number_of_element_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="count_frequency_Of_number_of_element_in_array" />
-      <module name="Tcs Coding Question" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Method_in_Java" />
+        <item itemvalue="Application.Good_Number" />
         <item itemvalue="Application.TCS_Questions_4" />
         <item itemvalue="Application.TCS_Questions_3" />
         <item itemvalue="Application.TCS_Question_2" />
-        <item itemvalue="Application.TCS_Question_1" />
-        <item itemvalue="Application.count_frequency_Of_number_of_element_in_array" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759944775586</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Tcs Day 5">
+      <option name="closed" value="true" />
+      <created>1760030889117</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760030889117</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,6 +192,7 @@
     <MESSAGE value="Tcs Day 3" />
     <MESSAGE value="Tcs Day 3 completed" />
     <MESSAGE value="Tcs Day 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tcs Day 4" />
+    <MESSAGE value="Tcs Day 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tcs Day 5" />
   </component>
 </project>

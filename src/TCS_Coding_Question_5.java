@@ -1,3 +1,4 @@
+import java.util.*;
 //TCS Coding Question - 5
 //SWEET SEVENTEEN:Given a maximum of four digit to the base 17 (10 - A, 11 - B, 12 - C, 13 - D .... 16 - G} as input, output its decimal value.
 //        Case 1:
@@ -11,6 +12,14 @@
 //So the output will be 27
 public class TCS_Coding_Question_5 {
     public static void main(String[] args) {
+        Scanner sc =new Scanner(System.in);
+        System.out.print("Enter Base 17 Number : ");
+        String base17= sc.nextLine().toUpperCase();
 
+        int result =0;
+        int power=0;
+
+
+        
     }
 }
